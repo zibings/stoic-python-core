@@ -1,7 +1,6 @@
-# ChainHelper.py
-from typing import List, Any, Optional, Dict, Callable, Union
 from .node_base import NodeBase
 from .dispatch_base import DispatchBase
+from typing import List, Any, Optional, Dict, Callable
 
 
 class ChainHelper:
